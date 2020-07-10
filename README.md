@@ -66,7 +66,7 @@ A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practice
 - Scholorship : The marketing of the technological innovations
 
 
-#### "Petre Andrei" University of Iasi, Romania / Economics (2004 to 2010)
+#### "Petre Andrei" University of Iasi, Romania (2004 to 2010)
 
 - Finance & Banking
 - English translation or equivalent 2:1
