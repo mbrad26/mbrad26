@@ -1,5 +1,7 @@
 # Marius Brad
 
+[LinkedIn](https://www.linkedin.com/in/marius-brad-b11a611b1/) | [Sourcerer](https://sourcerer.io/mbrad26) | [Codewars](https://www.codewars.com/users/mbrad26)
+
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) 
 
 I am a driven, dedicated and energetic junior full stack developer, looking for a tech company where I can continue to learn and grow as a competent software developer. 
