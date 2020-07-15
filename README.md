@@ -93,7 +93,7 @@ A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practice
 
 # Hobbies
 
-The Great Outdoors - I love being surrounded by nature and experience it in all its glory. I love camping, especially camping in my De Waard tent from early spring till late in the season. Nothing compares with that feeling when you wake up in the morning in your tent surrounded by nature, either in a lovely camping site somewhere in rural France or somewhere high in the mountains.
+The Great Outdoors - I love being surrounded by nature and experience it in all its glory. I love camping from early spring till late in the season. Nothing compares with that feeling when you wake up in the morning in your tent surrounded by nature, either in a lovely camping site somewhere in rural France or somewhere high in the mountains.
 
 Fitness become a hobby of mine as soon as I started to realize that probably I won't live forever as previously thought. I'm trying to train at least 3 times a week, anything from high intensity workouts, lifting weights, rowing on my WaterRower or cycling. 
 
