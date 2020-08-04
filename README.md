@@ -18,7 +18,7 @@ My background is in financial industry, sales and logistics where I learned to w
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Acebook](https://github.com/mbrad26/acebook-HoneyBunnies)      | A test driven Facebook clone - team project                | Ruby, Ruby on Rails, Bootstrap, PostgreSQL, Travis CI, Heroku, Active Storage           | RSpec, Capybara      |
+| [AceBook](https://github.com/mbrad26/acebook-HoneyBunnies)      | A test driven Facebook clone - team project                | Ruby, Ruby on Rails, Bootstrap, PostgreSQL, Travis CI, Heroku, Active Storage           | RSpec, Capybara      |
 [SpaceX](https://github.com/mbrad26/react-practice)     | Small project build with React hooks and React-testing-library     | JavaScript, React, React Bootstrap, Axios  | Jest, React testing library    |
 [Chronomy - front end](https://github.com/mbrad26/final-project-front-end)            | A tool to create curated playlists of TikToks  | JavaScript, React, Travis CI, Heroku        | Cypress, Jest, Enzyme       | 
 | [MakersBnB](https://github.com/mbrad26/makersBnB)       | A test driven Airbnb clone - team project                                         | Ruby, Sinatra, Bootstrap, PostgreSQL           | RSpec, Capybara                    |
