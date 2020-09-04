@@ -10,7 +10,7 @@ For the past few years I have been teaching myself to code and because writing c
 
 My background is in financial industry, sales and logistics where I learned to work, communicate and collaborate with people from various departments, levels and walks of life.
 
-**Tech Stack**: Ruby, JavaScript, SQL, HTML, CSS,  Sinatra, Rails, React, Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
+**Tech Stack**: React, Redux, Ruby, JavaScript, SQL, HTML, CSS, Sinatra, Rails, Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
 
 
 # Projects
