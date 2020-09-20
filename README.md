@@ -46,6 +46,7 @@ I love to learn and read about software development from all the available sourc
 
 - *The Road to React*, *The Road to Redux* , *The Road to React with Firebase*  by Robin Wieruch,
 - *Mastering React TDD* by Daniel Irvine,
+- *Fluent Python* by Luciano Ramalho,
 - *Deep Learning with Python* by Francois Chollet,
 - *SQL for Mere Mortals* by John Viescas,
 - *JavaScript the Definitive Guide* by David Flanagan,
