@@ -6,9 +6,9 @@
 
 I am a driven, dedicated and energetic junior full stack developer, looking for a tech company where I can continue to learn and grow as a competent software developer. 
 
-For the past few years I have been teaching myself to code and because writing code brings me immense personal satisfaction I decided to join Makers Academy to boost my programing knowledge. At Makers I learned about the fundamentals of OOP, TDD, BDD and best practices and methodologies when it comes to writing well tested and clean code. 
+For the past few years I have been teaching myself to code and because writing code brings me immense personal satisfaction I decided to join Makers Academy to boost my programming knowledge. At Makers I learnt about the fundamentals of OOP, TDD, BDD as well as best practices and methodologies when it comes to writing well tested and clean code. 
 
-My background is in financial industry, sales and logistics where I learned to work, communicate and collaborate with people from various departments, levels and walks of life.
+My background is in the financial industry, sales and logistics where I learnt to work, communicate and collaborate with people from various departments, levels and walks of life.
 
 **Tech Stack**: React, Redux, Ruby, JavaScript, SQL, HTML, CSS, Sinatra, Rails, Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
 
@@ -33,7 +33,7 @@ My background is in financial industry, sales and logistics where I learned to w
 #### Quick Learner
 I am a hungry learner who devours information about topics of interest with passion and energy.
 
-At Makers I taught myself Ruby on Rails in one week and used it to build, together with my team a fully tested and working clone of Facebook. 
+At Makers I taught myself Ruby on Rails in one week and, together with my team, used it to build a fully tested and working clone of Facebook. 
 For the end of course project I learned enough React, Cypress, Jest and Enzyme during a single weekend, to enable me to contribute in a meaningful way to my team’s project and goals. 
 
 #### Collaborator 
@@ -45,7 +45,7 @@ At Makers Academy we often worked on different, challenging projects in teams an
 I love to learn and read about software development from all the available sources(Youtube, Medium etc). I often find myself on Google searching for new books about programming  to study from and to help me deepen my understanding.
 
 #### Adaptable 
-I have lived in five regions, in three different countries, and I met and worked with people from all backgrounds. Every change brought something new in my life, new challenges and new opportunities.
+I have lived in five regions, in three different countries, and have met and worked with people from all backgrounds. Every change brought something new to my life, along with new challenges and new opportunities.
 
 
 # Education
