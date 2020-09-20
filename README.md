@@ -44,12 +44,12 @@ At Makers Academy we often worked on different, challenging projects in teams an
 #### Inquisitive 
 I love to learn and read about software development from all the available sources(Youtube, Medium etc). I often find myself on Google searching for new books about programming  to study from and to help me deepen my understanding. Here are some of the books I really enjoyed reading:
 
-- **The Road to React**, **The Road to Redux** , **The Road to React with Firebase**  by Robin Wieruch,
-- **Mastering React TDD** by Daniel Irvine,
-- **Deep Learning with Python** by Francois Chollet,
-- **SQL for Mere Mortals** by John Viescas,
-- **JavaScript the Definitive Guide** by David Flanagan,
-- **JavaScript the Good Parts** by Douglas Crockford.
+- *The Road to React*, *The Road to Redux* , *The Road to React with Firebase*  by Robin Wieruch,
+- *Mastering React TDD* by Daniel Irvine,
+- *Deep Learning with Python* by Francois Chollet,
+- *SQL for Mere Mortals* by John Viescas,
+- *JavaScript the Definitive Guide* by David Flanagan,
+- *JavaScript the Good Parts* by Douglas Crockford.
 
 #### Adaptable 
 I have lived in five regions, in three different countries, and have met and worked with people from all backgrounds. Every change brought something new to my life, along with new challenges and new opportunities.
