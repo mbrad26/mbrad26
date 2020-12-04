@@ -24,6 +24,7 @@ For the past few years I have been teaching myself to code and because writing c
 [Chronomy - front end](https://github.com/mbrad26/final-project-front-end)            | A tool to create curated playlists of TikToks  | JavaScript, React, Travis CI, Heroku        | Cypress, Jest, Enzyme       | 
 | [AceBook](https://github.com/mbrad26/acebook-HoneyBunnies)      | A test driven Facebook clone - team project                | Ruby, Ruby on Rails, Bootstrap, PostgreSQL, Travis CI, Heroku, Active Storage           | RSpec, Capybara      |
 | [MakersBnB](https://github.com/mbrad26/makersBnB)       | A test driven Airbnb clone - team project                                         | Ruby, Sinatra, Bootstrap, PostgreSQL           | RSpec, Capybara                    |
+| [Prime Numbers Multiplication Table](https://github.com/mbrad26/prime-numbers-multiplications-table)            | Small project to practice TDD  | Node       | Jest       |  
 | [Bank Tech Test](https://github.com/mbrad26/bank-tech-test)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       |   
 | [Takeaway Challenge](https://github.com/mbrad26/takeaway-challenge)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       | 
 [Airport Challenge](https://github.com/mbrad26/airport_challenge_2)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       | 
