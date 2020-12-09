@@ -10,8 +10,15 @@ My background is in the financial industry, sales and logistics where I learnt t
 
 For the past few years I have been teaching myself to code and because writing code brings me immense personal satisfaction I decided to join Makers Academy to boost my programming knowledge. At Makers I learnt about the fundamentals of OOP, TDD, BDD as well as best practices and methodologies when it comes to writing well tested and clean code. 
 
-**Tech Stack**: Firebase, React, Redux, Ruby, JavaScript, SQL, HTML, CSS, Sinatra, Rails, Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
+### Tech Stack: 
 
+**JavaScript** (React, Redux, Redux-saga, Jest, Enzyme, React Testing Library)
+
+**Ruby** (Sinatra, Ruby on Rails, Rspec, Capybara)
+
+**Databases** (SQL, PostgreSQL, Firebase)
+
+HTML, CSS, Bootstrap
 
 # Projects
 
