@@ -18,7 +18,6 @@ For the past few years I have been teaching myself to code and because writing c
 
 **Databases** (SQL, PostgreSQL, Firebase)
 
-HTML, CSS, Bootstrap
 
 # Projects
 
