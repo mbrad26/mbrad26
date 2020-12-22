@@ -29,6 +29,7 @@ For the past few years I have been teaching myself to code and because writing c
 | [SpaceX](https://github.com/mbrad26/react-practice)     | Small project build with React hooks and React-testing-library     | JavaScript, React, React Bootstrap, Axios  | Jest, React testing library    |
 | [AceBook](https://github.com/mbrad26/acebook-HoneyBunnies)      | A test driven Facebook clone - team project                | Ruby, Ruby on Rails, Bootstrap, PostgreSQL, Travis CI, Heroku, Active Storage           | RSpec, Capybara      |
 | [MakersBnB](https://github.com/mbrad26/makersBnB)       | A test driven Airbnb clone - team project                                         | Ruby, Sinatra, Bootstrap, PostgreSQL           | RSpec, Capybara                    |
+| [Game Of Life](https://github.com/mbrad26/game-of-life-js) | Work in progress - A TDD approach to Conway's Game of Life | Node | Jest |
 | [Prime Numbers Multiplication Table](https://github.com/mbrad26/prime-numbers-multiplications-table)            | Small project to practice TDD  | Node       | Jest       |  
 | [Bank Tech Test](https://github.com/mbrad26/bank-tech-test)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       |   
 | [Takeaway Challenge](https://github.com/mbrad26/takeaway-challenge)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       | 
